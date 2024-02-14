@@ -30,9 +30,10 @@ import io
 import logging
 
 bot = Client("bot",
-             bot_token= "6843556382:AAFgQGtaErBt5ry1zc1LqRp-nnIHIktDnao",
-             api_id= 20225480,
-             api_hash= "70f93c98c61a40f69c0f830bd4fece7c")
+             bot_token= "6623568115:AAE4cOR0qQoNd3-QHeviKzzk-D2dKCqElwo
+",
+             api_id= 24218997,
+             api_hash= "b0419e875ab8647b12e885e74c492297)
 
 
 @bot.on_message(filters.command(["baby"]))
